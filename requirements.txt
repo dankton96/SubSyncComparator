@@ -1,0 +1,3 @@
+dragonmapper==0.2.6
+charset-normalizer==1.3.6
+easygui==0.98.1
